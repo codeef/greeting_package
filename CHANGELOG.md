@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 1.2.1
+
+### Patch Changes
+
+- b7da872: Changed the night greet text to something warmer
+
 ## 1.2.0
 
 ### Minor Changes
