@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 1.2.2
+
+### Patch Changes
+
+- cbdd295: Deleted text
+
 ## 1.2.1
 
 ### Patch Changes
