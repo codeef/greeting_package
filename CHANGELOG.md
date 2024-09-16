@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 1.2.4
+
+### Patch Changes
+
+- d265237: Night greet changed
+
 ## 1.2.3
 
 ### Patch Changes

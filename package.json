@@ -1,6 +1,6 @@
 {
   "name": "@codeef/greeting-package",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "This package is for greeting a person during the day",
   "type": "module",
   "main": "lib/index.cjs",
