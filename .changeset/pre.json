@@ -4,5 +4,7 @@
   "initialVersions": {
     "@codeef/greeting-package": "1.2.3"
   },
-  "changesets": []
+  "changesets": [
+    "fair-maps-promise"
+  ]
 }

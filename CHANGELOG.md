@@ -1,5 +1,11 @@
 # @codeef/greeting-package
 
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- ab2e690: Created a monarch cats morning greet
+
 ## 1.2.3
 
 ### Patch Changes
