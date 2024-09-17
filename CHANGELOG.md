@@ -12,6 +12,12 @@
 
 - ab2e690: Created a monarch cats morning greet
 
+## 1.2.4
+
+### Patch Changes
+
+- d265237: Night greet changed
+
 ## 1.2.3
 
 ### Patch Changes
