@@ -1,10 +1,8 @@
 {
   "mode": "pre",
-  "tag": "alpha",
+  "tag": "beta",
   "initialVersions": {
     "@codeef/greeting-package": "1.2.3"
   },
-  "changesets": [
-    "fair-maps-promise"
-  ]
+  "changesets": ["fair-maps-promise"]
 }
