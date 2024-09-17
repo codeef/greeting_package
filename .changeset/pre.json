@@ -4,5 +4,8 @@
   "initialVersions": {
     "@codeef/greeting-package": "1.2.3"
   },
-  "changesets": ["fair-maps-promise"]
+  "changesets": [
+    "fair-maps-promise",
+    "red-tomatoes-enjoy"
+  ]
 }
