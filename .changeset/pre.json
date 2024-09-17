@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@codeef/greeting-package": "1.2.3"
+  },
+  "changesets": [
+    "fair-maps-promise",
+    "red-tomatoes-enjoy"
+  ]
+}

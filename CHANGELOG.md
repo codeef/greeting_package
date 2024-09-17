@@ -1,5 +1,17 @@
 # @codeef/greeting-package
 
+## 2.0.0-beta.1
+
+### Major Changes
+
+- fa8c4f2: Added Grumpy to monarch cats
+
+## 2.0.0-alpha.0
+
+### Major Changes
+
+- ab2e690: Created a monarch cats morning greet
+
 ## 1.2.4
 
 ### Patch Changes
